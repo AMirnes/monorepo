@@ -1,0 +1,19 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "monorepo",
+  "main": ".prettierrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMirnes/monorepo.git"
+  },
+  "author": "Mirnes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMirnes/monorepo/issues"
+  },
+  "homepage": "https://github.com/AMirnes/monorepo#readme"
+}
